@@ -11,6 +11,7 @@ we use next js for the software. and tailwind css for styling. and shadcn ui for
 we use pnpm for package management.
 
 Theme - we use light shade of gary and green as primary color, and blue as secondory color. and white as background color.
+Name - EasyPhoto
 
 We use modular approach for the software. and we use typescript for the software. and make a folder for component and load them in main page.tsx 
 for other page we write code in that page only. but if it large then we also a component folder inside it and load them in that page only.
